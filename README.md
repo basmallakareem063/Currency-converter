@@ -48,7 +48,7 @@ Exchange rates are provided by:
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+(https://github.com/basmallakareem063/Currency-converter.git)
 ```
 
 2. Open the project folder.
