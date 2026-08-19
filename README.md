@@ -5,6 +5,8 @@ A simple and responsive Currency Converter web application built with **HTML, CS
 ## 📸 Preview
 <img width="1299" height="868" alt="image" src="https://github.com/user-attachments/assets/91e4cc22-d603-4ee6-94a3-df7f953daf19" />
 
+## 🌐 Live Demo
+[(https://basmallakareem063.github.io/Currency-converter/)] 
 
 ## 📌 About The Project
 
